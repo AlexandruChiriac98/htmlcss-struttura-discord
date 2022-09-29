@@ -21,9 +21,13 @@ header {
     display: flex;
 }
 
+.barra-fot {
+    display: flex;
+}
+
 .barra-nav>div {
     border: 1px dashed black;
-    background-color: orange;
+    background-color: red;
     flex-basis: 20%;
 }
 
