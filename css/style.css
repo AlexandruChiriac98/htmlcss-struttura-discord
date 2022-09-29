@@ -36,8 +36,16 @@ header {
     padding: .5rem .25rem;
 }
 
-.barra-nav .contenitore-login{
+.contenitore-login{
     text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.contenitore-logo{
+    text-align: left;
+    align-items: center;
+    justify-content: flex-start;
 }
 
 .barra-nav .contenitore-link {
